@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582650954 source:c:\users\pat\desktop\templatelista\main.cpp
+	<iostream>
+	"ClaseListaT.h"
+
+1582652201 c:\users\pat\desktop\templatelista\claselistat.h
+	"ClaseNodoT.h"
+
+1582650709 c:\users\pat\desktop\templatelista\clasenodot.h
+
